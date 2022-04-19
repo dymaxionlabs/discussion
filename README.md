@@ -2,9 +2,10 @@
 
 In this repository, you can find the [official Dymaxion Labs public discussions](https://github.com/dymaxionlabs/discussions/discussions) for the following product areas, as well as an overall category for general product feedback:
 
-- [satproc](https://github.com/dymaxionlabs/satproc) - [satproc Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/satproc-feedback)
-- [unetseg](https://github.com/dymaxionlabs/unetseg) - [unetseg Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/unetsetg-feedback)
-- [EarthFlow](https://github.com/dymaxionlabs/earthflow) - [EarthFlow Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/earthflow-feedback)
+- [satproc](https://github.com/dymaxionlabs/satproc) - [satproc Feedback](https://github.com/dymaxionlabs/discussions/discussions/categories/satproc-feedback)
+- [unetseg](https://github.com/dymaxionlabs/unetseg) - [unetseg Feedback](https://github.com/dymaxionlabs/discussions/discussions/categories/unetseg-feedback)
+- [nb_workflows](https://github.com/dymaxionlabs/nb_workflows) - [nb_workflows Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/nb_workflows-feedback)
+- [Platform](https://github.com/dymaxionlabs/platform) - [Platform Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/platform-feedback)
 - [General Feedback](https://github.com/dymaxionlabs/feedback/discussions/categories/general-feedback)
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Dymaxion product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
